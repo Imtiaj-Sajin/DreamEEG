@@ -1,0 +1,6 @@
+{
+  "EEGCoordinateSystem": "standard_1020",
+  "EEGCoordinateSystemDescription": "Extended 10-20 system (10-10 layout) with 32 EEG channels, following the international 10-20 naming and spatial logic",
+  "EEGCoordinateUnits": "millimetres",
+  "IntendedFor": "eeg"
+}

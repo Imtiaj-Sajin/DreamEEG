@@ -1,0 +1,18 @@
+{
+  "Name": "EEG Dataset for Visual Imagery",
+  "License": "CC0",
+  "Authors": [
+    "Gao Jing'ao",
+    "Liu Yao",
+    "Li Zhengshaung",
+    "Huang Kaixin",
+    "Wang fan",
+    "Zhao Lei",
+    "Li Tianwen",
+    "Fu Yunfa"
+  ],
+  "DatasetType": "raw",
+  "DatasetDOI": " ",
+  "BIDSVersion": "1.1.1",
+  "Description": "Dataset organized according to EEG-BIDS extension"
+}

@@ -1,0 +1,33 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "s"
+  },
+  "type": {
+    "Description": "Type of animal visual imagery event",
+    "Levels": {
+      "dog": "Imagining the image of the dog",
+      "bird": "Imagining the image of the bird",
+      "fish": "Imagining the image of the fish"
+    }
+  },
+  "value": {
+    "Description": "Value of animal imagery event (numerical)",
+    "Levels": {
+      "1": "Imagining the image of the dog",
+      "2": "Imagining the image of the bird",
+      "3": "Imagining the image of the fish"
+    }
+  },
+  "latency": {
+    "Description": "Sample index (position in the data array) where the event occurs",
+    "Units": "samples"
+  },
+  "trial": {
+    "Description": "Trial number or unique event identifier "
+  }
+}

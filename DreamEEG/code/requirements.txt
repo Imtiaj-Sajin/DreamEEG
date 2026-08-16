@@ -1,0 +1,12 @@
+# DreamEEG pipeline dependencies
+# Install:  pip install -r requirements.txt
+# (PyTorch with CUDA is best installed from https://pytorch.org for your GPU.)
+
+mne>=1.6
+mne-icalabel>=0.7
+python-picard>=0.7
+pyprep>=0.4
+numpy
+scipy
+scikit-learn
+torch            # CUDA build recommended (tested: torch 2.7 + cu126, RTX 3060 Ti)

@@ -8,3 +8,13 @@ eegnet,sub-09,FVI,lite,full,1,0.4500,0.3997,0.1750,33.3
 eegnet,sub-09,FVI,lite,full,2,0.4083,0.3197,0.1125,33.3
 eegnet,sub-09,OVI,lite,full,0,0.3187,0.2529,0.0917,25.0
 eegnet,sub-09,OVI,lite,full,1,0.2625,0.1465,0.0167,25.0
+eegnet,sub-09,OVI,lite,full,2,0.3312,0.2770,0.1083,25.0
+eegnet,sub-01,AVI,lite,full,0,0.4500,0.4199,0.1750,33.3
+eegnet,sub-01,AVI,lite,full,1,0.4333,0.4061,0.1500,33.3
+eegnet,sub-01,AVI,lite,full,2,0.4583,0.4319,0.1875,33.3
+eegnet,sub-01,FVI,lite,full,0,0.4000,0.3295,0.1000,33.3
+eegnet,sub-01,FVI,lite,full,1,0.4250,0.3363,0.1375,33.3
+eegnet,sub-01,FVI,lite,full,2,0.3917,0.2888,0.0875,33.3
+eegnet,sub-01,OVI,lite,full,0,0.3312,0.2958,0.1083,25.0
+eegnet,sub-01,OVI,lite,full,1,0.2875,0.1886,0.0500,25.0
+eegnet,sub-01,OVI,lite,full,2,0.3125,0.2453,0.0833,25.0

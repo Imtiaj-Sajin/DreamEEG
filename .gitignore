@@ -37,3 +37,7 @@ DreamEEG/results/*.npy
 *.blg
 *.nav
 *.snm
+
+# authors verbatim run: derived data (keep the .py + .log evidence, not the arrays)
+DreamEEG/code/authors_run/ani_s1_signal_sub_newset_del_ch/
+*.stackdump

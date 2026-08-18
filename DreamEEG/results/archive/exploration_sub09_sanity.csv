@@ -1,0 +1,7 @@
+subject,task,session,window,ica,epochs,acc,std,macroF1,chance
+sub-09,AVI,ses-01,full,True,1000,0.4083,0.0486,0.3304,33.3
+sub-09,FVI,ses-01,full,True,1000,0.3417,0.0167,0.1826,33.3
+sub-09,OVI,ses-01,full,True,1000,0.3250,0.0153,0.2530,25.0
+sub-09,AVI,ses-01,full,False,600,0.4583,0.0745,0.3913,33.3
+sub-09,FVI,ses-01,full,False,600,0.3833,0.0167,0.2981,33.3
+sub-09,OVI,ses-01,full,False,600,0.3250,0.0643,0.2355,25.0

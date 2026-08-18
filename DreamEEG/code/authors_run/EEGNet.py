@@ -184,7 +184,7 @@ class TrainModel:
             criterion = nn.CrossEntropyLoss()
             optimizer = optim.Adam(model.parameters(), lr=learning_rate, weight_decay=weight_decay)
             scheduler = optim.lr_scheduler.ReduceLROnPlateau(
-                optimizer, mode='max', factor=0.5, patience=lr_scheduler_patience, verbose=True)
+                optimizer, mode='max', factor=0.5, patience=lr_scheduler_patience)
 
             best_val_acc = 0.0
             best_val_loss = float('inf')

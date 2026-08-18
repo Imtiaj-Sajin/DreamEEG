@@ -1,0 +1,2 @@
+model,subject,task,prep,window,seed,acc,macroF1,kappa,chance
+dreameeg,sub-09,AVI,lite,slide,0,0.4550,0.3894,0.1825,33.3

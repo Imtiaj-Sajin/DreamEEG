@@ -47,3 +47,9 @@ eegnet,sub-10,FVI,lite,full,2,0.4167,0.3582,0.1250,33.3
 eegnet,sub-10,OVI,lite,full,0,0.3187,0.2402,0.0917,25.0
 eegnet,sub-10,OVI,lite,full,1,0.3312,0.2872,0.1083,25.0
 eegnet,sub-10,OVI,lite,full,2,0.3375,0.3260,0.1167,25.0
+eegnet,sub-19,FVI,lite,full,0,0.4833,0.4240,0.2250,33.3
+eegnet,sub-19,FVI,lite,full,1,0.4583,0.4042,0.1875,33.3
+eegnet,sub-19,FVI,lite,full,2,0.5083,0.4586,0.2625,33.3
+eegnet,sub-19,OVI,lite,full,0,0.3187,0.2512,0.0917,25.0
+eegnet,sub-19,OVI,lite,full,1,0.3500,0.3167,0.1333,25.0
+eegnet,sub-19,OVI,lite,full,2,0.3187,0.2234,0.0917,25.0

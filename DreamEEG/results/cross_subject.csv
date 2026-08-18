@@ -1,0 +1,5 @@
+model,task,ea,epochs,acc,std,chance
+eegnet,AVI,False,300,0.4139,0.0369,33.3
+eegnet,AVI,True,300,0.4111,0.0314,33.3
+dreameeg,AVI,False,300,0.4250,0.0293,33.3
+dreameeg,AVI,True,300,0.4167,0.0118,33.3
